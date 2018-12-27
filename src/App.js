@@ -1,4 +1,5 @@
-//Main file working, React COmponent
+//Main file working, React Component
+//Another name for this file is App Container
 import React from 'react' //import react object from react package in package.json
 
 //this class creates an instance of App and extends React.Component that is an object that lives in
